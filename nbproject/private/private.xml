@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/core/DbManager.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/core/View.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/core/Application.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/web/index_dev.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/MiniBlogApplication.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/core/Router.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/core/DbRepository.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/views/status/user.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/views/account/inputs.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/models/StatusRepository.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/web/index.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/views/status/status.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/views/status/show.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/views/account/index.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/core/Request.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/models/UserRepository.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/controllers/StatusController.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/views/account/signup.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/bootstrap.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/core/ClassLoader.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/core/Controller.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/views/layout.php</file>
+            <file>file:/C:/xampp/htdocs/tiso@proj/php/mini-blog.localhost/controllers/AccountController.php</file>
+        </group>
+    </open-files>
+</project-private>

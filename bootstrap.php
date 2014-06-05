@@ -10,6 +10,7 @@ $loader = new ClassLoader();
 $loader->registerDir(dirname(__FILE__).'/core');
 //echo dirname(__FILE__.'/core');
 $loader->registerDir(dirname(__FILE__).'/models');
+$loader->registerDir(dirname(__FILE__)."/framework");
 //echo dirname(__FILE__.'/models');
 //オートローダー登録処理を呼び出す
 $loader->register();
